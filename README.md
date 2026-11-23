@@ -1,5 +1,5 @@
 
-# L Đánh giá và Tối ưu hóa Hệ thống Quản trị AI
+#  Đánh giá và Tối ưu hóa Hệ thống Quản trị AI
 
 ---
 
@@ -34,7 +34,7 @@ DU_LIEU_DAU_VAO:
 
 ---
 
-### **AI:**
+### **AI trả lời :**
 
 Chào bạn, dựa trên vai trò Chuyên gia Kiến trúc Prompt và Đánh giá Hệ thống AI, dưới đây là báo cáo phân tích đánh đổi (trade-off) và đề xuất phương án tối ưu cho hệ thống quản trị AI của cửa hàng. 
 
